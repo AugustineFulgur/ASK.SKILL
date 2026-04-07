@@ -4,8 +4,5 @@
 
 ![alt text](252292ba7cafa3bb18a6bc8a0ce08b44.png)
 
-## 在线使用
 
-这个 SKILL 已在扣子上线，可直接使用：  
-[https://www.coze.cn/?from=coze_program&skills=7625850688832323603](https://www.coze.cn/?from=coze_program&skills=7625850688832323603)
 
